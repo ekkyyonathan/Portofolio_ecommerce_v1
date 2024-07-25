@@ -267,6 +267,7 @@
     border-style: outset;
     background-color: rgba(59, 168, 241, 0.781);
     padding-bottom: 80px;
+    gap: 10px;
 }
 .beli1 {
     display: flex;
