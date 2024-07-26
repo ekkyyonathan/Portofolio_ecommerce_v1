@@ -278,4 +278,6 @@
     align-items: center;
     flex-wrap: wrap;
 }
-    
+.beli img{
+    max-width: 80%;
+}
